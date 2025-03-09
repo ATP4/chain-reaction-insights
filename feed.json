@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Chain Reaction Insights",
     "description": "",
-    "home_page_url": "https://github.com/ATP4",
-    "feed_url": "https://github.com/ATP4/feed.json",
+    "home_page_url": "https://atp4.github.io/chain-reaction-insights",
+    "feed_url": "https://atp4.github.io/chain-reaction-insights/feed.json",
     "user_comment": "",
     "author": {
         "name": "AParyani"
