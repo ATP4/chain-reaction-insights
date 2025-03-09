@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chain Reaction Insights",
+    "description": "",
+    "home_page_url": "https://github.com/ATP4",
+    "feed_url": "https://github.com/ATP4/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "AParyani"
+    },
+    "items": [
+    ]
+}
